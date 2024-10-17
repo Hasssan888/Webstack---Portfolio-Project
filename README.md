@@ -1,7 +1,7 @@
 How to Annotate Python 3 Code for Enhanced Clarity
 Last Updated: October 17, 2024
 Development
-By [Hasssan888]
+By Hasssan888
 
 Introduction
 Annotations serve as guiding notes within computer programs, aiding in comprehension for humans while being disregarded by compilers and interpreters. Employing annotations in your code enhances readability by offering insights or explanations into each segment's functionality.
